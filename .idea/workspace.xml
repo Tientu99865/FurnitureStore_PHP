@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16d68d6c-3880-4233-8c4d-a8bbee166423" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SIPxZuGg0iXXNQp6eLxCQoqkTr" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-toy" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\FurnitureStore" />
+      <recent name="C:\xampp\htdocs\shoesweb" />
+      <recent name="C:\xampp\htdocs\shoesweb\style" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16d68d6c-3880-4233-8c4d-a8bbee166423" name="Default Changelist" comment="" />
+      <created>1571248383628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571248383628</updated>
+      <workItem from="1571248385221" duration="13592000" />
+      <workItem from="1571294564423" duration="16069000" />
+      <workItem from="1571329950963" duration="2542000" />
+      <workItem from="1571379563792" duration="7557000" />
+      <workItem from="1571548013682" duration="12596000" />
+      <workItem from="1571647938332" duration="9640000" />
+      <workItem from="1571726998745" duration="7479000" />
+      <workItem from="1571840640844" duration="7031000" />
+      <workItem from="1571911729066" duration="15771000" />
+      <workItem from="1571984107551" duration="3712000" />
+      <workItem from="1572149758036" duration="3035000" />
+      <workItem from="1572153623795" duration="1713000" />
+      <workItem from="1572178009467" duration="7835000" />
+      <workItem from="1572202096929" duration="3622000" />
+      <workItem from="1572276729567" duration="1937000" />
+      <workItem from="1572281704269" duration="11704000" />
+      <workItem from="1572330482020" duration="3486000" />
+      <workItem from="1572337132516" duration="5274000" />
+      <workItem from="1572427621777" duration="1041000" />
+      <workItem from="1572922679075" duration="6451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
